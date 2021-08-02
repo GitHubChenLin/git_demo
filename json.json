@@ -1,0 +1,19 @@
+{
+    "Request" : {
+        "BusiParams" : {
+            "CustId" : 23531000011351
+        },
+        "BusiCode" : "OI_QueryGroupManagers"
+    },
+    "PubInfo" : {
+        "InterfaceId" : "1000",
+        "TransactionId" : "DB1429583501151",
+        "InterfaceType" : "1",
+        "OpId" : "95550003",
+        "CountyCode" : "5300",
+        "OrgId" : "10300003",
+        "ClientIP" : "10.70.128.132",
+        "TransactionTime" : "20150421 103141",
+        "RegionCode" : "853"
+    }
+}
